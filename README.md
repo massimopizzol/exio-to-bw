@@ -23,6 +23,7 @@ Works with 2022 pxp version downloaded [here](https://zenodo.org/records/1893749
 - Steps 4 and 5 take quite long time.
 - This code is only for the IO table monetary units.
 - Right now only three GHG emissions are included in the calculation.
+- Charachterisation factors are made up (everything = 1)
 - Final demand not included either. 
 
 
