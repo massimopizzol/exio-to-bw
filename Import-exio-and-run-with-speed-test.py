@@ -47,8 +47,7 @@ len([i for i in A[:,1] if i != 0]) # non-zero values
 len([i for i in A[:,1] if i == 0]) # zero values
 A.shape
 
-len([i for i in A[:,1] if i != 0]) # non-zero values
-len([i for i in A[:,:] if i == 0]) # zero values
+# Calculate density
 np.count_nonzero(A)/(9800*9800)
 
 
