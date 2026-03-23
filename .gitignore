@@ -1,4 +1,8 @@
 
 #Ignore Jupyter Notebook checkpoints
-
 .ipynb_checkpoints/
+
+
+# macOS Finder clutter
+.DS_Store
+**/.DS_Store
