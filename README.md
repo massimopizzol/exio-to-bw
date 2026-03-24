@@ -8,10 +8,10 @@ Testing different calculation methods too.
 
 # Run the code
 
-Works with 2022 pxp version downloaded [here](https://zenodo.org/records/18937492) 
+Works with monetary 2022 pxp version downloaded [here](https://zenodo.org/records/18937492) 
 
 
-1. Import the HIO sheet from txt file (A matrix), transform it so it fits LCA format
+1. Import the IO sheet from txt file (A matrix), transform it so it fits LCA format
 2. Import extensions from another txt file (F matrix)
 3. Select only some extensions and create a LCIA method 
 4. Create a brighway-format dictionary with all activities and exchanges
