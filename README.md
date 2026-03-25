@@ -1,6 +1,6 @@
 # exio-to-bw
 
-Import Exiobase into brightwayand run calculations
+Import Exiobase into brightway and run calculations.
 
 Quick script to import tables of the Multi-Regional Input-Output database Exiobase version 3 into the python-baseed Brightway (v2.5) LCA framework. 
 
